@@ -1,7 +1,7 @@
 # Productor-Consumidor
 El link al repositorio es el siguiente: [GitHub](https://github.com/alexlomu/Productor-Consumidor)
 
-Hemos creao un código que ressuelve el problema del prouctor-consumidor.
+Hemos creao un código que resuelve el problema del prouctor-consumidor.
 
 El código propuesto es el siguiente:
 
